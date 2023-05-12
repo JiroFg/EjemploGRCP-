@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "027bLer2VCLfD2z5VvleccW2uyw5plcrRc7pKd1+w3QUbJYDeM9ok8EmPEL1+0/oDGGsQEVacgMm3K9hizAW1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jiro\\CODE\\GRPC\\ClientGRPC\\ClientGRPC\\ClientGRPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jiro\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\grpc.net.common\\2.53.0\\grpc.net.common.2.53.0.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\grpc.tools\\2.54.0\\grpc.tools.2.54.0.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jiro\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
